@@ -1,4 +1,4 @@
-module github.com/richardwilkes/swaggerdoc/v2
+module github.com/a-mummey/fc-swaggerdoc
 
 go 1.23.7
 
